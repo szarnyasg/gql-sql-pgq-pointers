@@ -30,9 +30,10 @@ See also the [GQL Parser prototype](https://github.com/OlofMorra/GQL-parser) fro
 ## Standardization process
 
 * Property Graph Standards, Process & Timing by Keith Hare
-  * [14th LDBC TUC (2021)](https://datasets.ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) – [🎥 recording](https://www.youtube.com/watch?v=ZgFCuzods4g)
-  * [15th LDBC TUC (2022)](https://datasets.ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/keith-hare-property-graph-standards-process-and-timing.pdf) – [🎥 recording](https://www.youtube.com/watch?v=xFVD3LWnKlc)
-  * [16th LDBC TUC (2023)](https://datasets.ldbcouncil.org/event/sixteenth-tuc-meeting/attachments/keith-hare-an-update-on-the-gql-and-sql-pgq-standards-efforts.pdf) – [🎥 recording](https://www.youtube.com/watch?v=LQYkal_0j6E)
+  * [Database Language Standards Structure and Process, SQL/PGQ](https://datasets.ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) - [🎥 recording](https://www.youtube.com/watch?v=ZgFCuzods4g)
+  * [An update on the GQL & SQL/PGQ standards efforts](https://datasets.ldbcouncil.org/event/sixteenth-tuc-meeting/attachments/keith-hare-an-update-on-the-gql-and-sql-pgq-standards-efforts.pdf) - [🎥 recording](https://www.youtube.com/watch?v=LQYkal_0j6E)
+  * [The GQL Standard is Published! Now what?](https://datasets.ldbcouncil.org/event/eighteenth-tuc-meeting/day1/4.%20GQL%20standard%20is%20published%202024-08-30.pdf) - [🎥 recording](https://www.youtube.com/watch?v=RoebDzkbn9c)
+  * [New capabilities in the next edition of the GQL standard](https://datasets.ldbcouncil.org/event/twentieth-tuc-meeting/keith-hare-what-is-next-for-the-gql-standard.pdf) - [🎥 recording](https://www.youtube.com/watch?v=PcXjiDuhzzk)
 * [Pattern matching in GQL and SQL/PGQ](https://datasets.ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf) by Leonid Libkin (2022) – [🎥 recording](https://www.youtube.com/watch?v=OvGsa0qLANE)
 * [The Upcoming GQL Standard](https://zenodo.org/record/4903293) by Stefan Plantikow (2021)
 * [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://datasets.ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) by Stefan Plantikow (2021) – [🎥 recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)
