@@ -6,11 +6,12 @@ This page contains pointers to the GQL (Graph Query Language) standard and the S
 
 ### Systems supporting GQL and SQL/PGQ
 
-| System | Language | Developed in |
-|-|-|-|
-| [Oracle 23ai](https://oracle-base.com/articles/23/sql-property-graphs-and-sql-pgq-23) | SQL/PGQ | industry |
-| [Google Cloud Spanner Graph](https://cloud.google.com/blog/products/databases/announcing-spanner-graph) | GQL | industry |
-| [DuckPGQ](https://github.com/cwida/duckpgq-extension) | SQL/PGQ | academia |
+| System                                                                                                  | Language | Developed in |
+| ------------------------------------------------------------------------------------------------------- | -------- | ------------ |
+| [DuckPGQ](https://github.com/cwida/duckpgq-extension)                                                   | SQL/PGQ  | academia     |
+| [Google Cloud Spanner Graph](https://cloud.google.com/blog/products/databases/announcing-spanner-graph) | GQL      | industry     |
+| [GraphLite](https://github.com/GraphLite-AI/GraphLite)                                                  | GQL      | industry     |
+| [Oracle 23ai](https://oracle-base.com/articles/23/sql-property-graphs-and-sql-pgq-23)                   | SQL/PGQ  | industry     |
 
 See also the joint announcement blog post [Neo4j](https://neo4j.com/blog/cypher-path-gql/) and [AWS Neptune](https://aws.amazon.com/blogs/database/gql-the-iso-standard-for-graphs-has-arrived/).
 
@@ -20,7 +21,7 @@ See the [opengql GitHub organization](https://github.com/opengql) (maintained by
 
 * [grammar](https://github.com/opengql/grammar): ANTLR Grammar and related content for GQL.
 * [editor](https://github.com/opengql/editor): GQL Code Editor.
-* [railroad](https://github.com/opengql/railroad): Railroad diagrams for the GQL language
+* [railroad](https://github.com/opengql/railroad): Railroad diagrams for the GQL language.
 
 See also the [GQL Parser prototype](https://github.com/OlofMorra/GQL-parser) from 2021 by Olof Morra (TU Eindhoven).
   * [thesis](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/report/A%20Semantics%20of%20GQL;%20a%20New%20Query%20Language%20forProperty%20Graphs%20Formalized.pdf)
