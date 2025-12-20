@@ -19,6 +19,7 @@
 ## Papers
 
 * ⚡️ [Graph Processing in RDBMSs](http://sites.computer.org/debull/A17sept/p6.pdf) by Kangfei Zhao, Jeffrey Xu Yu (IEEE Data Eng. Bull., 2017)
+* [Semantic Data Modeling, Graph Query, and SQL, Together at Last?](https://storage.googleapis.com/gweb-research2023-media/pubtools/1030704.pdf) by Jeff Shute, Colin Zheng, Romit Kudtarkar (CIDR 2026)
 
 ## Papers on worst-case optimal joins
 
